@@ -57,7 +57,6 @@ plt.show()
 
 ## Output:
 <img width="832" height="650" alt="Screenshot 2026-01-24 095503" src="https://github.com/user-attachments/assets/96da9c95-9483-4e8a-9d05-d8c993bdd9a1" />
-95503.png)
 
 
 ## Result:
